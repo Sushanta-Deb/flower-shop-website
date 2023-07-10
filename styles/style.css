@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #CABEC1;
+    padding: 20px 200px 0px;
+}
+body{
+    font-family:font-family: 'Open Sans', sans-serif;
+}
+nav h1{
+    font-size:50px;
+}
+.btn-style{
+    border: 0px;
+    border-radius: 5px;
+    background-color: brown;
+    color: beige;
+    padding: 12px 28px;
+}
+.poster{
+    display: flex;
+    align-items: center;
+}
+.cover{
+    height: 400px;
+    width: 350px;
+}
