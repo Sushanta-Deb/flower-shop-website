@@ -110,5 +110,22 @@ nav h1{
     padding: auto;
     justify-content: center;
 }
-
+input{
+    height: 30px;
+    width: 600px;
+}
+.sub-style{
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(231, 40, 40);
+    color: beige;
+    padding: 12px 28px;
+}
+.container{
+    text-align: center;
+    height: 350px;
+    margin: 60px 180px;
+    border: 01px solid white;
+    background-image:url("/images/Rectangle\ 9.png")  
+}
 /* footer styles */
