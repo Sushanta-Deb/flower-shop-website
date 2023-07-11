@@ -99,4 +99,16 @@ nav h1{
     padding: 20px 300px 0px;
     margin: 80px 0px;
 }
+/* section four */
+.row-four{
+    margin: 5px;
+    padding: 0px;
+}
+.design-four{
+    display: flex;
+    text-align: center;
+    padding: auto;
+    justify-content: center;
+}
+
 /* footer styles */
