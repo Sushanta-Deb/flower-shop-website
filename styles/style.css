@@ -27,3 +27,58 @@ nav h1{
     height: 400px;
     width: 350px;
 }
+/* main saction 1 */
+.theme{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    
+}
+.design{
+    display: flex;
+    padding: 10px 200px;
+    text-align: center;
+    
+}
+.one{
+    background-color: #F2DEE8;
+    height: 300px;
+    width: 250px;
+    border-radius: 110px 110px 0px 0px;
+    margin: 0px 10px;
+}
+.two{
+    height: 300px;
+    width: 250px;
+    border-radius: 110px 110px 0px 0px;
+    background-color: #DAF0F1; 
+    margin: 0px 10px;
+}
+.three{
+    height: 300px;
+    width: 250px;
+    border-radius: 110px 110px 0px 0px;
+    background-color: #E4ECDB;
+    margin: 0px 10px;
+}
+.image-three{
+    align-items: center;
+    height: 260px;
+    width: 220px;
+    margin: 40px 40px 0px 30px ;
+}
+.image-two{
+    align-items: center;
+    height: 220px;
+    width: 220px;
+    margin:40px 20px 40px 30px;
+}
+.image-one{
+    align-items: center;
+    height: 260px;
+    width: 220px;
+    margin: 40px 40px 0px 10px ;
+}
+.little{
+    margin-top: 15px;
+}
